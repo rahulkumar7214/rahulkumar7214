@@ -1,233 +1,61 @@
-<div align="center">
-
-# 👋 Hey there! I'm Ayush Tiwari
-
-### 🚀 Full-Stack Developer | 🎯 Problem Solver | 💡 Innovation Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;MNNIT+Allahabad+Student;Competitive+Programmer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-
+<!-- ✨ Animated Typing Intro Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayush5071&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ayush5071?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Ayush5071?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Rahul.;🚀+Welcome+to+my+GitHub!;🏆+Competitive+Programmer;💻+Web+Developer" alt="Typing SVG" />
 </p>
 
-</div>
+# 💫 About Me:
+🖐️ Hello! I’m a Data Science Engineering student at New Horizon College of Engineering, currently holding a CGPA of 9.2. My passion lies in building meaningful software solutions — not just learning concepts, but applying them through real, hands-on projects. 🛠️  
+From solving 300+ problems on LeetCode (1500+ rating) and earning a 3★ CodeChef rating, to building AI-powered applications like IntelliChat using OpenAI’s API — my journey blends strong problem-solving with modern development practices.  
+Recently, I led development of an AI Fintech Platform, a full-stack project focused on delivering smart financial insights. With every project, I aim to grow as a developer and make an impact through clean, scalable code.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rahul-kumar7214) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghur7234@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rahulkumar7214&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rahulkumar7214&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar7214&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rahulkumar7214&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rahulkumar7214&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rahulkumar7214&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 About Me
-
-```typescript
-const ayush = {
-    location: "MNNIT Allahabad, India",
-    education: "B.Tech in Electronics & Communication Engineering",
-    currentCPI: 7.88,
-    role: "Full-Stack Developer",
-    
-    currentFocus: [
-        "System Design & Architecture",
-        "Next.js & React Ecosystem", 
-        "Data Structures & Algorithms",
-        "AI/ML Integration",
-        "Open Source Contributions"
-    ],
-    
-    askMeAbout: [
-        "Web Development", "JavaScript/TypeScript", 
-        "React/Next.js", "Node.js", "MongoDB",
-        "System Design", "Competitive Programming"
-    ],
-    
-    funFact: "I turn coffee into code ☕ → 💻"
-};
-```
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush5071&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🥇 **Competition Wins**
-- 🏆 **Innodev - ES MNNIT** - 1st Place (2025)
-- 🏆 **Dev or Die - MNNIT** - 1st Place (2024)
-- 🥉 **Quintathlon - ES MNNIT** - 3rd Place (2024)
-- 🏅 **Hack36 - CC MNNIT** - 9th Place (2025)
-
-</td>
-<td align="center" width="50%">
-
-### 💼 **Leadership & Contributions**
-- 🔧 **Developer** - Hack36 Platform
-- 👥 **Executive** - Computer Coding Club
-- 🎨 **Frontend Developer** - Culrav-Avishkar
-- 📊 **Real-time Dashboard** Creator
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-### 💻 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-### 🚀 **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### 🎨 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush5071&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush5071&layout=compact&theme=radical"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush5071&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush5071&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">💰 Paissa - Financial Platform</h3>
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img style="margin: 10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<br><br>
-AI-powered financial management platform with 3-stage progressive system, Google Gemini integration, and beautiful analytics.
-<br><br>
-<a href="https://github.com/Ayush5071/paissa" target="_blank">
-<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://paissa-9eml.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🎓 Quants EdTech Platform</h3>
-<div align="center">
-<img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<br><br>
-Full-stack EdTech platform with AI interviews, roadmaps, blogs, and real-time features. Integrated Gemini AI for mock interviews.
-<br><br>
-<a href="https://github.com/Ayush5071/quantsprogrammer" target="_blank">
-<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://quantsprogrammer.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Coding Journey
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/ayush5071?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
-
-</div>
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ayush-tiwari-84a823281" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://ayush-delta.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:ayush.20234046@mnnit.ac.in" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://instagram.com/ayushtiwari5071" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.hackerrank.com/ayusht5071" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Closing Message" />
-
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
