@@ -144,7 +144,7 @@ const Rahul = {
 <a href="https://linkedin.com/in/rahul-kumar7214" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://ayush-delta.vercel.app" target="_blank">
+<a href="" target="_blank">  
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:raghur7234@gmail.com" target="_blank">
@@ -168,7 +168,7 @@ const Rahul = {
 
 </div>
 <div align="center">
-
+<!-- https://ayush-delta.vercel.app -->
 
 <!--<a href="https://instagram.com/ayushtiwari5071" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
